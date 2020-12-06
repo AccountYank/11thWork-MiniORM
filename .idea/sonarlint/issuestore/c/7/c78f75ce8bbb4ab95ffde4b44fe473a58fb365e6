@@ -1,0 +1,12 @@
+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(Þ”Üýÿÿÿÿ
+N
+squid:S106o"9Replace this use of System.out or System.err by a logger.(ºÿ¿
+?squid:S1148b"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+O
+squid:S1069"9Replace this use of System.out or System.err by a logger.(õ«ïÜ
+O
+squid:S106>"9Replace this use of System.out or System.err by a logger.(²õƒÝ
+asquid:S3027j"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(ú éÐ
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(¼Ó“Öùÿÿÿÿ
